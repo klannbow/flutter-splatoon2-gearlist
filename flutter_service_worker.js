@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "469e32825d131b1cdfd572c5b83a5a55",
-"index.html": "73bad876172f51ba5849522b42ccad22",
-"/": "73bad876172f51ba5849522b42ccad22",
-"main.dart.js": "1a0b8260a18d36797dbaebd62533d028",
+"index.html": "c0b999dbee6b90b5129118ca58fd9f2f",
+"/": "c0b999dbee6b90b5129118ca58fd9f2f",
+"main.dart.js": "532d39943369e551f2d417ec5dbc5b5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -35,6 +35,8 @@ const RESOURCES = {
 "assets/images/brand/firefin.png": "ec77a587cd29a7c020091e4d7708cd49",
 "assets/images/brand/krak_on.png": "515815a798f6596bd41d475c2bcac50c",
 "assets/images/brand/squidforce.png": "34ae6892e34a0dc6865ecd791c745dc4",
+"assets/images/icons/arrow_up.svg": "dc327a2b241e10790db10a0159e3b495",
+"assets/images/icons/arrow_down.svg": "18af68ab81ee2a1476cad687573fea6d",
 "assets/images/gearPower/ink_resistance_up.png": "41af523bbb728d91cc728832d7562142",
 "assets/images/gearPower/thermal_ink.png": "df2511090f9974e06248076c263f816d",
 "assets/images/gearPower/special_power_up.png": "3f8bb9fb7e02fb7c4369092ffe877812",
