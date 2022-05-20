@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "469e32825d131b1cdfd572c5b83a5a55",
-"index.html": "c0b999dbee6b90b5129118ca58fd9f2f",
-"/": "c0b999dbee6b90b5129118ca58fd9f2f",
-"main.dart.js": "532d39943369e551f2d417ec5dbc5b5e",
+"index.html": "356898db7b67d43a61f47289124b797a",
+"/": "356898db7b67d43a61f47289124b797a",
+"main.dart.js": "27c5ec0f3d191858ff29812fd45a782d",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -35,8 +36,6 @@ const RESOURCES = {
 "assets/images/brand/firefin.png": "ec77a587cd29a7c020091e4d7708cd49",
 "assets/images/brand/krak_on.png": "515815a798f6596bd41d475c2bcac50c",
 "assets/images/brand/squidforce.png": "34ae6892e34a0dc6865ecd791c745dc4",
-"assets/images/icons/arrow_up.svg": "dc327a2b241e10790db10a0159e3b495",
-"assets/images/icons/arrow_down.svg": "18af68ab81ee2a1476cad687573fea6d",
 "assets/images/gearPower/ink_resistance_up.png": "41af523bbb728d91cc728832d7562142",
 "assets/images/gearPower/thermal_ink.png": "df2511090f9974e06248076c263f816d",
 "assets/images/gearPower/special_power_up.png": "3f8bb9fb7e02fb7c4369092ffe877812",
@@ -65,12 +64,12 @@ const RESOURCES = {
 "assets/images/gearPower/quick_super_jump.png": "e2100a1dc42efa89881cdabf09ea948d",
 "assets/images/gearPower/last_ditch_effort.png": "03a2d7b4226c57d98e40479599d34ecb",
 "assets/AssetManifest.json": "9886cd67ee83ee390f4e60320adf5e92",
-"assets/NOTICES": "9a94d4dc79302ef0b433a654424fcb6d",
+"assets/NOTICES": "15e7f7bc963be6f75652eaffdad3bdd4",
 "assets/FontManifest.json": "0c5ddb8ea34e14a0339344e35468637a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/NotoSansJP-Regular.otf": "ecfed48e463db4e31d1691c8af367730",
 "assets/fonts/NotoSansJP-Bold.otf": "e463c4b3a2d7fbfb917831767da8c24f",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
@@ -80,8 +79,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
